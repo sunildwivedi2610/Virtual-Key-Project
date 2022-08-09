@@ -1,0 +1,28 @@
+Virtual Key:
+                  Virtual Key is an app which is used by user to show directory files and also user can create, delete and search a file in a specific directory.
+ The app is working on command like user can select option to perform the Operations.
+While we will run the app it will display:
+ 
+When user will enter 1 to show directory files(Location is : D:\VirtualKey) where is a test.txt file is available in a directory.
+ 
+While user will select option 2. It will display four options-
+ 
+Using the file operation menu user can add, delete and search the file.
+Exa: If user want to create a file, select option 1 it will ask for name of file
+ 
+If I will check the directory location TexttFile.txt is available
+ 
+If user want to delete a file press 2 to select delete option and enter the file name:
+ 
+If user will enter wrong file name it will display the File not found.
+ 
+Same for the searching option, select option 3, it will ask the name of file which you want to search, if file available in the directory it will display file found otherwise it will show file not found.
+ 
+ 
+If, user want to exit from File Operation menu select option four by pressing 4, and if they want to close app select option 3 from main menu.
+
+Language and IDE Used:
+                        For developing Virtual Key app I have used Java Programming language to develop app.
+Eclipse IDE used for coding. 
+For developing Virtual Key I have used core Java concept, Loops, Collections, Interface, Method Overloading Method Overriding, to display options used ArrayList also used the Java File Input/Output stream for the all file operation, String and Java Exception Handeling. 
+              For sorting I have used the Collection.sort method to sort the files in ascending order.
